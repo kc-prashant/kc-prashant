@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Prashant!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Prashant!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 ### 🚀 | Ethical Hacking | Cybersecurity | Python Enthusiast 
 
 ## 🧑‍💻 About Me
