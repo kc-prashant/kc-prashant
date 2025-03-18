@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&=true&width=435&lines=Hi%2C+I+am+Prashant!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I+am+Prashant!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
 
 ### 🚀 | Ethical Hacking | Cybersecurity | Python Enthusiast 
 
