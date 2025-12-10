@@ -1,13 +1,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I+am+Prashant!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 
-### 🚀| Cybersecurity | Python Enthusiast 
+### 🚀| Cybersecurity | 
 
 ## 🧑‍💻 About Me
 - 🎓 **Studying BCA**
-- 💻 **Learning Pythonn & Cybersecurity**
+- 💻 **Learning Python & Cybersecurity**
 - 🏴‍☠️ **Exploring Ethical Hacking**
-- 🌱 **Aspiring to Join an Internship**
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
